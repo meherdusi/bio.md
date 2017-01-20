@@ -1,2 +1,2 @@
 #Name: Meher Dusi
-Photo: ![Image](home/meherdusi/pictures/me.jpg)
+Photo: ![Image](assets/me.jpg)
