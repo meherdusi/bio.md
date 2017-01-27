@@ -3,8 +3,10 @@
 How To Ask Questions The Smart Way:
 
 Suggestions-
+
  1) Make sure the premise of the question is accurate before 
     making further deductions.
+
  2) Consult Strunk and White's style guide before writing
 
 Free Culture:
@@ -27,6 +29,7 @@ without it the road to stagnation and decay steepens.
 
 
 Install Tree
+
 ![Image](assets/man tree.png)
 
 Regex problems
